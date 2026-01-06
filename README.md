@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The moment we've all been waiting for has arrived! Let's use our newly-seeded
+The moment we've all been waiting for has arrived!. Let's use our newly-seeded
 database to put pet information onto the internet!
 
 ---
